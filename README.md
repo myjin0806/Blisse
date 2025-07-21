@@ -3,6 +3,8 @@
 ## 🖥 작업자 : 김해진(Haejin Kim), 전채아(Chae A JEON), 정연희(yeon hui Jeong) 
 ## :loudspeaker: 팀명 : 지니피크
 
+## :link: 링크
+- [DEMO](https://myjin0806-blisse.netlify.app/)
 
 ## :star:️ 프로젝트 설명
 
@@ -258,16 +260,3 @@ MD 추천 아이템: MD가 직접 선정한 상품을 슬라이더 형태로 제
  <br> 
 
 
-
-## :link: 링크
-- [DEMO](https://blisse-react.netlify.app/)
-
-# 📞 Contact
-
-- E-mail : ahwon7@naver.com
-- Tistory : <a href="https://chaea-note.tistory.com/">
-  <img src="https://i.namu.wiki/i/CNVaHZuf0Gh8FzOCf15jCbi5hULtTNYHUrf_5U2bD-uAbShxafelnrNhFULo7O0JAZeTTq6_bSveUA5mOVtlyQ.svg" height="20px"/>
-  </a>
-- 깃허브 : <a href="https://github.com/Jeon-ChaeA">
-  <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px"/>
-  </a>
